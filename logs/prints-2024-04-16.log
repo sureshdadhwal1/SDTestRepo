@@ -1,0 +1,122 @@
+12:56:27.570 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+12:59:36.120 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+12:59:38.520 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+12:59:46.974 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+12:59:49.483 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+12:59:57.987 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:00:00.342 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:00:08.626 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:00:10.924 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:00:19.517 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:00:29.392 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:00:38.019 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:00:40.614 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:01:48.538 [main] DEBUG testCases.LoginTest - Browser got launched
+13:01:50.698 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:01:59.060 [main] DEBUG testCases.LoginTest - Browser got launched
+13:02:01.241 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:02:09.503 [main] DEBUG testCases.LoginTest - Browser got launched
+13:02:19.276 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:02:28.008 [main] DEBUG testCases.LoginTest - Browser got launched
+13:02:30.372 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:02:38.809 [main] DEBUG testCases.LoginTest - Browser got launched
+13:02:46.458 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:02:54.905 [main] DEBUG testCases.LoginTest - Browser got launched
+13:03:03.467 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:17:23.221 [main] DEBUG testCases.LoginTest - Browser got launched
+13:17:25.556 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:17:33.900 [main] DEBUG testCases.LoginTest - Browser got launched
+13:17:36.104 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:17:44.494 [main] DEBUG testCases.LoginTest - Browser got launched
+13:17:54.096 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:18:02.611 [main] DEBUG testCases.LoginTest - Browser got launched
+13:18:04.886 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:18:13.193 [main] DEBUG testCases.LoginTest - Browser got launched
+13:18:16.022 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:18:25.046 [main] DEBUG testCases.LoginTest - Browser got launched
+13:18:32.501 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:26:31.477 [main] DEBUG testCases.LoginTest - Browser got launched
+13:26:33.768 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:26:35.490 [main] DEBUG testCases.LoginTest - Clicked on login button
+13:26:35.899 [main] DEBUG testCases.LoginTest - User got logged in
+13:26:38.850 [main] DEBUG testCases.LoginTest - Browser got launched
+13:26:41.199 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:26:42.735 [main] DEBUG testCases.LoginTest - Clicked on login button
+13:26:47.758 [main] DEBUG testCases.LoginTest - User didn't log in
+13:26:50.644 [main] DEBUG testCases.LoginTest - Browser got launched
+13:26:54.907 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:26:56.349 [main] DEBUG testCases.LoginTest - Clicked on login button
+13:27:01.370 [main] DEBUG testCases.LoginTest - User didn't log in
+13:27:04.257 [main] DEBUG testCases.LoginTest - Browser got launched
+13:27:06.591 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:27:11.021 [main] DEBUG testCases.LoginTest - Browser got launched
+13:27:18.589 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:27:23.435 [main] DEBUG testCases.LoginTest - Browser got launched
+13:27:25.683 [main] DEBUG testCases.LoginTest - Navigated to application URL
+13:33:40.367 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:33:42.627 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:33:44.434 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Clicked on login button
+13:33:44.825 [TestNG-test=Test-5] DEBUG testCases.LoginTest - User got logged in
+13:33:47.864 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:33:50.293 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:33:51.838 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Clicked on login button
+13:33:56.858 [TestNG-test=Test-5] DEBUG testCases.LoginTest - User didn't log in
+13:33:59.827 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:34:09.481 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:34:11.050 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Clicked on login button
+13:34:16.068 [TestNG-test=Test-5] DEBUG testCases.LoginTest - User didn't log in
+13:34:18.909 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:34:26.664 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:34:31.587 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:34:40.856 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:34:45.463 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Browser got launched
+13:34:47.989 [TestNG-test=Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+13:40:52.661 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:40:55.241 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:40:56.799 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Clicked on login button
+13:40:57.148 [TestNG-test=Test-3] DEBUG testCases.LoginTest - User got logged in
+13:41:00.347 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:41:09.828 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:41:12.180 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Clicked on login button
+13:41:17.196 [TestNG-test=Test-3] DEBUG testCases.LoginTest - User didn't log in
+13:41:20.032 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:41:22.226 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:41:23.692 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Clicked on login button
+13:41:28.706 [TestNG-test=Test-3] DEBUG testCases.LoginTest - User didn't log in
+13:41:31.508 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:41:41.086 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:41:45.738 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:41:55.510 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:42:00.432 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Browser got launched
+13:42:02.794 [TestNG-test=Test-3] DEBUG testCases.LoginTest - Navigated to application URL
+13:44:34.778 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:44:44.533 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+13:44:46.397 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Clicked on login button
+13:44:46.762 [TestNG-test=Test-4] DEBUG testCases.LoginTest - User got logged in
+13:44:49.697 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:44:52.953 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+13:44:54.410 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Clicked on login button
+13:44:59.415 [TestNG-test=Test-4] DEBUG testCases.LoginTest - User didn't log in
+13:45:02.428 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:45:05.173 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+13:45:06.633 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Clicked on login button
+13:45:11.645 [TestNG-test=Test-4] DEBUG testCases.LoginTest - User didn't log in
+13:45:14.728 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:45:24.504 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+13:45:29.095 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:45:36.729 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+13:45:41.653 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Browser got launched
+13:45:44.442 [TestNG-test=Test-4] DEBUG testCases.LoginTest - Navigated to application URL
+14:40:14.132 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Browser got launched
+14:40:16.907 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+14:40:18.513 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Clicked on login button
+14:40:18.862 [TestNG-test-Test-5] DEBUG testCases.LoginTest - User got logged in
+14:40:21.937 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Browser got launched
+14:40:25.580 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+14:40:27.151 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Clicked on login button
+14:40:32.160 [TestNG-test-Test-5] DEBUG testCases.LoginTest - User didn't log in
+14:40:34.958 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Browser got launched
+14:40:37.965 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Navigated to application URL
+14:40:39.485 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Clicked on login button
+14:40:44.501 [TestNG-test-Test-5] DEBUG testCases.LoginTest - User didn't log in
+14:40:47.425 [TestNG-test-Test-5] DEBUG testCases.LoginTest - Browser got launched

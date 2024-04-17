@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes">
+	<listeners>
+		<listener class-name="listeners.Listeners"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCases.SingleMethodTest"/>
+      <class name="testCases.ThreeTest"/>
+      <class name="testCases.OneTest"/>
+      <class name="testCases.SingleMethodTwoTest"/>
+      <class name="testCases.TwoTest"/>
+      <class name="testCases.LoginTest"/>
+      <class name="testCases.FourTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->      
+	  <!-- -->
