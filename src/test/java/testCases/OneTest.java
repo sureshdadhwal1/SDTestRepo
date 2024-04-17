@@ -8,6 +8,8 @@ public class OneTest {
 		System.out.println("Method 1");
 		System.out.println("Modified by SD");
 		System.out.println("Again Modified by SD");
+		System.out.println("Modified by anothe user in a branch");
+		
 	}
 	@Test
 	public void methodOneTest2() {
